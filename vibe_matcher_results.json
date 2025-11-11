@@ -1,0 +1,29 @@
+[
+  {
+    "query": "energetic urban chic",
+    "top_matches": [
+      "Energetic Bomber",
+      "Sporty Sneakers",
+      "Silk Scarf"
+    ],
+    "max_score": 0.58
+  },
+  {
+    "query": "relaxed cozy coffee shop",
+    "top_matches": [
+      "Cozy Knit Sweater",
+      "Boho Dress",
+      "Minimalist Blazer"
+    ],
+    "max_score": 0.57
+  },
+  {
+    "query": "festival bohemian flowy outfit",
+    "top_matches": [
+      "Boho Dress",
+      "Vintage Denim",
+      "Silk Scarf"
+    ],
+    "max_score": 0.58
+  }
+]

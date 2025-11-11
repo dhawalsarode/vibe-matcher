@@ -1,0 +1,14 @@
+[
+  {
+    "query":"energetic urban chic",
+    "latency_s":0.0115
+  },
+  {
+    "query":"relaxed cozy coffee shop",
+    "latency_s":0.013
+  },
+  {
+    "query":"festival bohemian flowy outfit",
+    "latency_s":0.0038
+  }
+]
